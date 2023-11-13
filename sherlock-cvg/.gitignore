@@ -1,0 +1,15 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+#typechain-types-vyper
+# Hardhat files
+cache
+artifacts
+.idea
+docs
+utils/charts/**.json
+.DS_Store
+
