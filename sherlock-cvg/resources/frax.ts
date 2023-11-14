@@ -1,0 +1,1 @@
+export const FRAXSWAP_ROUTER = "0xc14d550632db8592d1243edc8b95b0ad06703867";
