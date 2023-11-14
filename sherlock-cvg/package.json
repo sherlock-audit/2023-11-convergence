@@ -38,6 +38,7 @@
     "compile": "npx hardhat compile",
     "localnode": "npx hardhat node",
     "deploy": " npm run clean-contracts & npm run deploy-protocol-local",
-    "coverage": "npx hardhat coverage --network hardhat"
+    "coverage": "npx hardhat coverage --network hardhat",
+    "test": "npx hardhat test"
   }
 }
